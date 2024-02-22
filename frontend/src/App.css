@@ -1,0 +1,21 @@
+/* frontend/src/App.css */
+
+/* frontend/src/App.css */
+
+.app-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 90vh;
+}
+
+.header {
+  margin-bottom: 20px;
+  /* Add spacing between text and form */
+}
+
+.form-container {
+  width: fit-content;
+  /* Set width to fit the content (text and form) */
+}
